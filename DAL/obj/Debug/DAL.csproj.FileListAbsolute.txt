@@ -1,0 +1,11 @@
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\DAL\bin\Debug\DAL.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\DAL\bin\Debug\DAL.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\DAL\bin\Debug\Classes.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\DAL\bin\Debug\Connection.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\DAL\bin\Debug\Classes.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\DAL\bin\Debug\Connection.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\DAL\obj\Debug\DAL.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\DAL\obj\Debug\DAL.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\DAL\obj\Debug\DAL.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\Classes\bin\Debug\Classes.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\Classes\bin\Debug\Classes.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\Classes\obj\Debug\Classes.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Atividade 2 - CRUD Usuários\Classes\obj\Debug\Classes.pdb
